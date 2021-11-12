@@ -1,0 +1,46 @@
+#Damage and Shields Types
+p_d : Физический урон
+p_s : Физическая Защита
+d_d : Дальнобойный Урон
+
+#Tokens
+bleedness_token_1 : истекает кровью!
+bleedness_token : фишка "Кровотечение"
+stun_token : фишка "Оглушение"
+arrow_token : фишка "Стрела"
+fullfillment_token : фишка "Наполнение"
+revenge_token : фишка "Месть"
+
+#Ammo
+a : Arrow
+
+#Powers
+blink_dagger_1 : Stab без ограничений!
+
+#Conditions
+cond_s : был оглушен!
+cond_b : была заблокированна
+
+#Ammo
+a : Стрела
+
+#Parametrs
+name : Имя:
+shields : Защита:
+power : Мощь
+
+#Dices
+ch_tar : Выбираю цель для атаки(бросаю 1к
+
+#Battle Scene
+init : инициализация:
+deb_phase : Начало дебютной фазы: 
+brav_phase : Начало фазы бравады:
+req_phase : Начало фазы реквиема:
+res : Результат:
+round : Раунд
+dead : мертв...
+b_over : Битва окончена!
+r_count : Прошло раундов:
+winner : Победитель - команда
+

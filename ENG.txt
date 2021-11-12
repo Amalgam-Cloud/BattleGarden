@@ -1,0 +1,42 @@
+#Damage and Shields Types
+p_d : Physical Damage
+p_s : Physic Shields
+d_d : Distant Damage
+
+#Tokens
+bleedness_token_1 : is bleeding!
+stun_token : Stun Tokens
+arrow_token : Arrow Tokens
+bleedness_token : Bleedness Tokens
+fullfillment_token : Fulfillment Tokens
+revenge_token : Revenge Tokens
+
+#Ammo
+a : Arrow
+
+#Powers
+blink_dagger_1 : Stab is unlimited!
+
+#Conditions
+cond_s : was stuned!
+cond_b : was blocked
+
+#Parametrs
+name : Name:
+shields : Shields:
+power : Power
+
+#Dices
+ch_tar : Choose target(throw 1d
+
+#Battle Scene
+init : initialize:
+deb_phase : Start debute phase: 
+brav_phase : Start bravada phase:
+req_phase : Start requiem phase:
+res : Results:
+round : Round
+dead : is dead...
+b_over : Battle is over!
+r_count : Rounds passed:
+winner : The Winner - team
